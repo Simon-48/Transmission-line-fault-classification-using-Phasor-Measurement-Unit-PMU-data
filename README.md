@@ -1,5 +1,5 @@
 # Transmission-line-fault-classification-using-Phasor-Measurement-Unit-PMU-data
-Ensemble learning based transmission line fault classification using Phasor Measurement Unit (PMU) data with explainable AI (XAI)
+# Ensemble learning based transmission line fault classification using Phasor Measurement Unit (PMU) data with explainable AI (XAI)
 
 ## Short circuit fault analysis has been performed to categorize faults in electrical transmission line.
 
