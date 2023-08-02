@@ -19,9 +19,9 @@
          
 ## Data Description
 
-        -Ia, Ib, Ic:  Three-phase sinusoidal current.
-        -Va, Vb, Vc:  Three-phase sinusoidal voltage.
-        -Im, Iv:      Magnitude of the three phase sinusoidal current and voltage.
+        -Ia, Ib, Ic:  Three-phase sinusoidal current (MA). 
+        -Va, Vb, Vc:  Three-phase sinusoidal voltage (MV).
+        -Im, Vm:      Magnitude of the three phase sinusoidal current (MA) and voltage (MV).
         -Fi, Fv:      Frequency (Hz) of three phase sinusoidal current and voltage.
         -Pai, Pav:    Phase angle (degree) of three phase sinusoidal current and voltage.
 
